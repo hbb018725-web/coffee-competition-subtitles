@@ -1,0 +1,4 @@
+interface:
+  display_name: "咖啡比赛双语字幕"
+  short_description: "用选手原稿校正剪映现场字幕，先核对说法差异，再沿用上次断句风格"
+  default_prompt: "使用 $coffee-competition-subtitles 对照选手原稿校正剪映现场原声 SRT，先让我核对说法出入，再按上次的断句和标点风格制作双语字幕。"
